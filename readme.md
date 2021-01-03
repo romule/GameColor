@@ -1,0 +1,2 @@
+## Game Color
+This game is made for fun & learn. As you noticed - when you start to play, on the screen above you will see RGB color in the text - and under this display - you will see a square of colors. You just need to guess what color is!
